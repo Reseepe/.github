@@ -9,10 +9,10 @@
 ### Team Member
 | Name | Bangkit ID | Learning Path | GitHub |
 |------|------------|---------------|--------|
-| Revaldo Gemino Kantana Sagala | M006D4KY1425 | Machine Learning |
-| Krishna Alvian Ramadhani | M180D4KY1416 | Machine Learning |
-| Elang Satria Putra Buana | M121D4KY3014 | Machine Learning |
-| Hanif Robby Rodhiya | C006D4KY0616 | Cloud Computing |
-| M. Naufal Fawwaz Haryono | C006D4KY0624 | Cloud Computing |
-| Muhammad Alif Ilham | A010D4KY3990 | Mobile Development |
-| Ahmad Fatahillah | A010D4KY3622 | Mobile Development |
+| Revaldo Gemino Kantana Sagala | M006D4KY1425 | Machine Learning | https://github.com/rvldsgl |
+| Krishna Alvian Ramadhani | M180D4KY1416 | Machine Learning | https://github.com/alvianrn |
+| Elang Satria Putra Buana | M121D4KY3014 | Machine Learning | https://github.com/ESPB0808 |
+| Hanif Robby Rodhiya | C006D4KY0616 | Cloud Computing | https://github.com/HanifRobby |
+| M. Naufal Fawwaz Haryono | C006D4KY0624 | Cloud Computing | https://github.com/NaufalFawwaz |
+| Muhammad Alif Ilham | A010D4KY3990 | Mobile Development | https://github.com/Alifilhmm |
+| Ahmad Fatahillah | A010D4KY3622 | Mobile Development | https://github.com/ahmdfthlh |
