@@ -1,4 +1,5 @@
 # Reseepe
+![WhatsApp Image 2024-06-09 at 20 20 16](https://github.com/Reseepe/.github/assets/88410759/a21eac2f-1eb9-42e4-87df-945209d6abb1)
 
 **Reseepe** is an innovative image classification-based application designed to recommend dishes to users based on the ingredients they have on hand. By utilizing advanced image recognition technology, the app allows users to simply take photos of the ingredients they possess. Reseepe then analyzes these photos to identify the various food items and creates a comprehensive list of available ingredients. Using this list, the application searches its extensive recipe database to suggest a variety of dishes that can be made with the identified ingredients. It also considers user preferences, dietary restrictions, and cooking skill levels to provide personalized recommendations. In addition to recipe suggestions, Reseepe offers detailed cooking instructions, nutritional information, and tips, making it a valuable resource for both novice and experienced cooks. The app aims to reduce food waste, save users time and money, and inspire culinary creativity by helping users make the most out of the ingredients they already have.
 
